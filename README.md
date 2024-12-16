@@ -32,7 +32,7 @@ git clone https://github.com/nayanbhatia311/bse-stock-address-extractor.git
 
 pip install pandas openpyxl requests pillow ollama pytesseract 
 
-Run the Apple Script bse-stock-screenshot.scpt (**need mac os**) 
+osascript bse-stock-screenshot.scpt (**need mac os**) 
 
 python stock_address_parser.py
 ```
